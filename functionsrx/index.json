@@ -14,7 +14,7 @@
         "title": "Scopes",
         "text": "scopes.md",
         "background": "loadStep2.sh"
-      },,
+      },
       {
         "title": "Step 3",
         "text": "step3.md"
