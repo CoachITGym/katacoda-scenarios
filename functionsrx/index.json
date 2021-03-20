@@ -1,0 +1,38 @@
+{
+  "title": "Functions, the Ins and Outs",
+  "description": "A deep dive into Functions",
+  "difficulty": "Intermediate",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Wading in",
+        "text": "wadingin.md",
+        "background": "loadStep1.sh"
+      },
+      {
+        "title": "Scopes",
+        "text": "scopes.md",
+        "background": "loadStep2.sh"
+      },,
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "nodejs:12"
+  }
+}
