@@ -31,7 +31,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "vscode-terminal-split"
+  },
   "backend": {
     "imageid": "nodejs:12"
   }
