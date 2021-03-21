@@ -1,7 +1,5 @@
 echo "Started"
 
-cp /root/assets/step1/*.js /root/
-
 cat << 'EOF' > /root/step1/multiply.js
 function multiply(a, b){
   a * b
