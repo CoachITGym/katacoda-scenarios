@@ -32,7 +32,7 @@
     }
   },
   "environment": {
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "nodejs:12"
