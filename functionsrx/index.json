@@ -6,13 +6,13 @@
   "details": {
     "steps": [
       {
-        "title": "Wading in",
-        "text": "wadingin.md",
+        "title": "Step 1",
+        "text": "step1.md",
         "background": "loadStep1.sh"
       },
       {
-        "title": "Scopes",
-        "text": "scopes.md",
+        "title": "Step 2",
+        "text": "step1.md",
         "background": "loadStep2.sh"
       },
       {
