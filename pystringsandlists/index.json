@@ -1,0 +1,57 @@
+{
+  "title": "Python Lists and Strings",
+  "description": "This module explores Python lists and strings",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Lesson 1: What is a string?",
+        "text": "lesson1.md"
+      },
+      {
+        "title": "Lesson 2: Capitalize and Upper",
+        "text": "lesson2.md"
+      },
+      {
+        "title": "Lesson 3: What's in the string?",
+        "text": "lesson3.md"
+      },
+      {
+        "title": "Lesson 4: Position property of a string",
+        "text": "lesson4.md"
+      },
+      {
+        "title": "Step 5",
+        "text": "step5.md"
+      },
+      {
+        "title": "Step 6",
+        "text": "step6.md"
+      },
+      {
+        "title": "Step 7",
+        "text": "step7.md"
+      },
+      {
+        "title": "Step 8",
+        "text": "step8.md"
+      }
+    ],
+    "assets": {
+      "client": [{ "file": "*", "target": "/root/", "chmod": "+x" }]
+    },
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "python:3.8"
+  }
+}
