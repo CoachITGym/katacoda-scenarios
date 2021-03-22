@@ -35,8 +35,36 @@
         "text": "lesson7.md"
       },
       {
-        "title": "Step 8",
-        "text": "step8.md"
+        "title": "Lesson 8: Playtime",
+        "text": "lesson8.md"
+      },
+      {
+        "title": "Lesson 9: Lists, and Order",
+        "text": "lesson9.md"
+      },
+      {
+        "title": "Lesson 10: Accessing items in the list",
+        "text": "lesson10.md"
+      },
+      {
+        "title": "Lesson 11: Lists vs Strings",
+        "text": "lesson11.md"
+      },
+      {
+        "title": "Lesson 12: Adding to the list",
+        "text": "lesson12.md"
+      },
+      {
+        "title": "Lesson 13: Removing items",
+        "text": "lesson13.md"
+      },
+      {
+        "title": "Lesson 14: Organizing the list",
+        "text": "lesson14.md"
+      },
+      {
+        "title": "Lesson 15: Playtime with lists",
+        "text": "lesson15.md"
       }
     ],
     "assets": {
