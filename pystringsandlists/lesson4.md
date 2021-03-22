@@ -2,7 +2,7 @@
 OK I made that property name up, but it helps show what a string is
 We will talk about strings more when we work with Lists
 
-##### For now, let us understand that a string is a series of characters, and each has a position
+***For now, let us understand that a string is a series of characters, and each has a position***
 
 
     print(strExample[0])
@@ -21,7 +21,7 @@ And, first part blank to get everything from the beginning and end...
 
     print(strExample[:5])
 
-**This method  of cutting a string is called as slicing a string in programming**
+***This method  of cutting a string is called as slicing a string in programming***
 
 And -- of course a string has a length
 So try this: 
