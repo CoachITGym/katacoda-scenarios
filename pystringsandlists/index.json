@@ -11,15 +11,18 @@
       },
       {
         "title": "Lesson 2: Capitalize and Upper",
-        "text": "lesson2.md"
+        "text": "lesson2.md",
+        "foreground":"startpython.sh"
       },
       {
         "title": "Lesson 3: What's in the string?",
-        "text": "lesson3.md"
+        "text": "lesson3.md",
+        "foreground":"startpython.sh"
       },
       {
         "title": "Lesson 4: Position property of a string",
-        "text": "lesson4.md"
+        "text": "lesson4.md",
+        "foreground":"startpython.sh"
       },
       {
         "title": "Step 5",
@@ -49,7 +52,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "python:3.8"
