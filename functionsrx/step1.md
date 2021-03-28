@@ -15,3 +15,9 @@ This allows us to use this block of code, over and over again, and also ensures 
 Based on this, let us do a small exercise. Click on the link below to open the file in the editor.  Edit the file, and make it work. 
 
 `multiply.js`{{open}}
+
+## Hoisting
+
+Let us now look at the function in the folder step1, in the editor. The function is declared *after* the `console.log` statement. How does it work?
+
+---declared functions are hoisted to the top of their scope *along* with their definitions. ----
