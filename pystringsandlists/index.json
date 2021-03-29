@@ -27,44 +27,32 @@
         "text": "lesson5.md"
       },
       {
-        "title": "Lesson 6: Finding and Replacing",
+        "title": "Lesson 6: Lists, and Order",
         "text": "lesson6.md"
       },
       {
-        "title": "Lesson 7:Play time",
+        "title": "Lesson 7: Accessing items in the list",
         "text": "lesson7.md"
       },
       {
-        "title": "Lesson 8: Playtime",
+        "title": "Lesson 8: Lists vs Strings",
         "text": "lesson8.md"
       },
       {
-        "title": "Lesson 9: Lists, and Order",
+        "title": "Lesson 9: Adding to the list",
         "text": "lesson9.md"
       },
       {
-        "title": "Lesson 10: Accessing items in the list",
+        "title": "Lesson 10: Removing items",
         "text": "lesson10.md"
       },
       {
-        "title": "Lesson 11: Lists vs Strings",
+        "title": "Lesson 11: Organizing the list",
         "text": "lesson11.md"
       },
       {
-        "title": "Lesson 12: Adding to the list",
+        "title": "Lesson 12: Playtime with lists",
         "text": "lesson12.md"
-      },
-      {
-        "title": "Lesson 13: Removing items",
-        "text": "lesson13.md"
-      },
-      {
-        "title": "Lesson 14: Organizing the list",
-        "text": "lesson14.md"
-      },
-      {
-        "title": "Lesson 15: Playtime with lists",
-        "text": "lesson15.md"
       }
     ],
     "assets": {
